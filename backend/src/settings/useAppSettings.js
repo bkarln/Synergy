@@ -1,7 +1,7 @@
 const useAppSettings = () => {
   let settings = {};
-  settings['idurar_app_email'] = 'noreply@idurarapp.com';
-  settings['idurar_base_url'] = 'https://cloud.idurarapp.com';
+  settings['xgest_app_email'] = 'noreply@xgestapp.com';
+  settings['xgest_base_url'] = 'https://cloud.xgestapp.com';
   return settings;
 };
 

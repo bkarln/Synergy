@@ -31,8 +31,12 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(compression());
 
-// // default options
-// app.use(fileUpload());
+// default options
+app.use(fileUpload({
+  limits: { fileSize: 50 * 1024 * 1024 }, // 50MB
+  useTempFiles: true,
+  tempFileDir: '/tmp/'
+}));
 
 // Here our API Routes
 

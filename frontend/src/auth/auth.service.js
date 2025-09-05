@@ -103,5 +103,5 @@ export const logout = async () => {
 };
 
 //  console.log(
-//    '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
+//    '🚀 Welcome to xgest ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@xgestapp.com for more information.'
 //  );

@@ -1,12 +1,12 @@
-# Perisian Sumber Terbuka IDURAR ERP & CRM
+# Perisian Sumber Terbuka xgest ERP & CRM
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Laman Web: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Laman Web: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Tumpukan Perisian
 
-IDURAR adalah aplikasi ERP & CRM sumber terbuka percuma, berdasarkan "tumpukan mern": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest adalah aplikasi ERP & CRM sumber terbuka percuma, berdasarkan "tumpukan mern": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Pengurusan Pengguna:
 

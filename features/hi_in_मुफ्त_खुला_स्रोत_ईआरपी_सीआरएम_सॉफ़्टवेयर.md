@@ -1,12 +1,12 @@
-# IDURAR ओपन-सोर्स ईआरपी और सीआरएम सॉफ्टवेयर
+# xgest ओपन-सोर्स ईआरपी और सीआरएम सॉफ्टवेयर
 
-गिटहब: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-डेमो: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-वेबसाइट: [https://www.idurarapp.com](https://www.idurarapp.com)
+गिटहब: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+डेमो: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+वेबसाइट: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## सॉफ्टवेयर स्टैक
 
-IDURAR मुफ्त ओपन-सोर्स ईआरपी और सीआरएम ऐप, "mern-stack" पर आधारित है: नोड.जेएस रिएक्ट.जेएस रीडक्स एक्सप्रेस.जेएस एमओएनजीबी एंटडिजाइन (एंटडी)
+xgest मुफ्त ओपन-सोर्स ईआरपी और सीआरएम ऐप, "mern-stack" पर आधारित है: नोड.जेएस रिएक्ट.जेएस रीडक्स एक्सप्रेस.जेएस एमओएनजीबी एंटडिजाइन (एंटडी)
 
 ## उपयोगकर्ता प्रबंधन:
 

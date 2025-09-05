@@ -1,12 +1,12 @@
-# IDURAR Nyílt forráskódú ERP & CRM szoftver
+# xgest Nyílt forráskódú ERP & CRM szoftver
 
-GitHub : [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo : [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Weboldal : [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub : [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo : [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Weboldal : [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Szoftver technológia
 
-Az IDURAR ingyenes nyílt forráskódú erp & crm alkalmazás, amely a "mern-stack" alapján működik: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+Az xgest ingyenes nyílt forráskódú erp & crm alkalmazás, amely a "mern-stack" alapján működik: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Felhasználókezelés:
 

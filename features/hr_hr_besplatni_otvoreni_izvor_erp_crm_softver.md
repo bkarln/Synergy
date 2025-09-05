@@ -1,12 +1,12 @@
-# IDURAR Open-Source ERP & CRM Softver
+# xgest Open-Source ERP & CRM Softver
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Web stranica: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Web stranica: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Tehnološki skup
 
-IDURAR Besplatna open-source erp & crm aplikacija, bazirana na "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest Besplatna open-source erp & crm aplikacija, bazirana na "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Upravljanje korisnicima:
 

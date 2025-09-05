@@ -1,12 +1,12 @@
-# نرم‌افزار متن‌باز IDURAR ERP & CRM
+# نرم‌افزار متن‌باز xgest ERP & CRM
 
-گیت‌هاب: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-نمایش آنلاین: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-وبسایت: [https://www.idurarapp.com](https://www.idurarapp.com)
+گیت‌هاب: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+نمایش آنلاین: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+وبسایت: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## مجموعه نرم‌افزاری
 
-IDURAR نرم‌افزار ERP & CRM متن‌باز رایگان است که بر اساس "mern-stack" ساخته شده است: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest نرم‌افزار ERP & CRM متن‌باز رایگان است که بر اساس "mern-stack" ساخته شده است: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## مدیریت کاربران:
 

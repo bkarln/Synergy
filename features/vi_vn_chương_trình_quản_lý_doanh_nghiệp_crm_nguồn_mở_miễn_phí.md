@@ -1,12 +1,12 @@
-# IDURAR Phần mềm ERP & CRM mã nguồn mở
+# xgest Phần mềm ERP & CRM mã nguồn mở
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Trang web: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Trang web: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Cấu trúc phần mềm
 
-IDURAR là ứng dụng ERP & CRM mã nguồn mở miễn phí, dựa trên "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest là ứng dụng ERP & CRM mã nguồn mở miễn phí, dựa trên "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Quản lý người dùng:
 

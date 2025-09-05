@@ -1,12 +1,12 @@
-# IDURAR Avoin lähdekoodin ERP- ja CRM-ohjelmisto
+# xgest Avoin lähdekoodin ERP- ja CRM-ohjelmisto
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Verkkosivusto: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Verkkosivusto: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Ohjelmistopino
 
-IDURAR on ilmainen avoimen lähdekoodin ERP- ja CRM-sovellus, joka perustuu "mern-stackiin": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest on ilmainen avoimen lähdekoodin ERP- ja CRM-sovellus, joka perustuu "mern-stackiin": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Käyttäjähallinta:
 

@@ -1,12 +1,12 @@
-# IDURAR Λογισμικό ERP & CRM ανοιχτού κώδικα
+# xgest Λογισμικό ERP & CRM ανοιχτού κώδικα
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Επίδειξη: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Ιστοσελίδα: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Επίδειξη: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Ιστοσελίδα: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Στοίβα Λογισμικού
 
-Το IDURAR είναι μια δωρεάν εφαρμογή ERP & CRM ανοιχτού κώδικα, βασισμένη στο "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+Το xgest είναι μια δωρεάν εφαρμογή ERP & CRM ανοιχτού κώδικα, βασισμένη στο "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Διαχείριση Χρηστών:
 

@@ -1,12 +1,12 @@
-# IDURAR オープンソース ERP＆CRMソフトウェア
+# xgest オープンソース ERP＆CRMソフトウェア
 
-GitHub：[https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-デモ：[https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-ウェブサイト：[https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub：[https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+デモ：[https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+ウェブサイト：[https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## ソフトウェアスタック
 
-IDURARは、Node.js、React.js、Redux、Express.js、MongoDB、AntDesign（AntD）をベースにした無料のオープンソースERP＆CRMアプリです。
+xgestは、Node.js、React.js、Redux、Express.js、MongoDB、AntDesign（AntD）をベースにした無料のオープンソースERP＆CRMアプリです。
 
 ## ユーザー管理：
 

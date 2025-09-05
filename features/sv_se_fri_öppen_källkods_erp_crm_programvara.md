@@ -1,12 +1,12 @@
-# IDURAR Öppen källkod ERP & CRM-programvara
+# xgest Öppen källkod ERP & CRM-programvara
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Webbplats: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Webbplats: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Programvarustack
 
-IDURAR Gratis öppen källkod erp & crm-app, baserad på "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest Gratis öppen källkod erp & crm-app, baserad på "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Användarhantering:
 

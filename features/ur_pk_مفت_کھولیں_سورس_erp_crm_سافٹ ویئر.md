@@ -1,12 +1,12 @@
-# IDURAR اوپن سورس ERP & CRM سافٹ ویئر
+# xgest اوپن سورس ERP & CRM سافٹ ویئر
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-ڈیمو: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-ویب سائٹ: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+ڈیمو: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+ویب سائٹ: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## سافٹ ویئر اسٹیک
 
-IDURAR مفت اوپن سورس erp & crm ایپ، "mern-stack" پر مبنی ہے: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest مفت اوپن سورس erp & crm ایپ، "mern-stack" پر مبنی ہے: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## صارف کا نظم و ضبط:
 

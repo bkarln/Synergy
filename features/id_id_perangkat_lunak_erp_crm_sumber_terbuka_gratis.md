@@ -1,12 +1,12 @@
-# Perangkat Lunak ERP & CRM Sumber Terbuka IDURAR
+# Perangkat Lunak ERP & CRM Sumber Terbuka xgest
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Website: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Website: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Tumpukan Perangkat Lunak
 
-Aplikasi ERP & CRM gratis dan sumber terbuka IDURAR, berbasis "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+Aplikasi ERP & CRM gratis dan sumber terbuka xgest, berbasis "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Manajemen Pengguna:
 

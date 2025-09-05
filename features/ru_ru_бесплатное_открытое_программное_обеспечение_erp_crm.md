@@ -1,12 +1,12 @@
-# IDURAR Открытое ERP и CRM программное обеспечение
+# xgest Открытое ERP и CRM программное обеспечение
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Демо: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Веб-сайт: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Демо: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Веб-сайт: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Стек программного обеспечения
 
-IDURAR Бесплатное открытое ERP и CRM приложение, основанное на "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest Бесплатное открытое ERP и CRM приложение, основанное на "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Управление пользователями:
 

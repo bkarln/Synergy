@@ -1,12 +1,12 @@
-# IDURAR برنامج إدارة الموارد التخطيطية وعلاقات العملاء مفتوح المصدر
+# xgest برنامج إدارة الموارد التخطيطية وعلاقات العملاء مفتوح المصدر
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-العرض التوضيحي: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-الموقع الإلكتروني: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+العرض التوضيحي: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+الموقع الإلكتروني: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## تكوين البرنامج
 
-IDURAR تطبيق ERP & CRM مفتوح المصدر ومجاني، يعتمد على "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest تطبيق ERP & CRM مفتوح المصدر ومجاني، يعتمد على "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## إدارة المستخدمين:
 

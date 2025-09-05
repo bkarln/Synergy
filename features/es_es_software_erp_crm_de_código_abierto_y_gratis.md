@@ -1,12 +1,12 @@
-# IDURAR Software de ERP y CRM de código abierto
+# xgest Software de ERP y CRM de código abierto
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Sitio web: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Sitio web: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Pila de software
 
-IDURAR es una aplicación gratuita de ERP y CRM de código abierto, basada en "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest es una aplicación gratuita de ERP y CRM de código abierto, basada en "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Gestión de usuarios:
 

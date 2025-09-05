@@ -1,12 +1,12 @@
-# IDURAR Open-Source ERP & CRM Software
+# xgest Open-Source ERP & CRM Software
 
-GitHub: [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-Demo: [https://www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
-Webová stránka: [https://www.idurarapp.com](https://www.idurarapp.com)
+GitHub: [https://github.com/xgest/xgest-erp-crm](https://github.com/xgest/xgest-erp-crm)
+Demo: [https://www.xgestapp.com/open-source-erp-crm/](https://www.xgestapp.com/open-source-erp-crm/)
+Webová stránka: [https://www.xgestapp.com](https://www.xgestapp.com)
 
 ## Softwarový stack
 
-IDURAR Bezplatná open-source ERP & CRM aplikace, založená na "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+xgest Bezplatná open-source ERP & CRM aplikace, založená na "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
 
 ## Správa uživatelů:
 
